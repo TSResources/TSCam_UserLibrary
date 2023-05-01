@@ -1,0 +1,18 @@
+Steps to install libraries in TS_Cam are :
+_____________________________________________
+
+1. Double click on executable file (before installing it, make sure that cam is already installed)
+2. Click --> Install for me only
+3. Here select the : c:/ProgramData/TechSmith
+	This path is already selected by default but if it is not selected then select this path only.
+	Specified path should be inside setup folder text box.
+
+4. Click Next.
+5. Click Install
+
+Note:
+If installing a new version, then it automatically created required folder heirarchy.
+If already installed and updating a newer version, then it does not touch already existing files.
+
+While uninstalling it deletes all of its content from the folder.
+But it does not touch any file which is not related to this version.
